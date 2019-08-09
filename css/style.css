@@ -467,3 +467,6 @@ padding-right: 5px;
 .column-width{
   width: 45%;
 }
+.bg-progress{
+  background-color: rgb(240, 130, 4);
+}
