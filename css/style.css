@@ -363,6 +363,7 @@ a, a:hover {
 
 .location-info p {
   margin-bottom: 5px;
+padding-right: 5px;
 }
 
 .location-info p {
@@ -463,3 +464,6 @@ a, a:hover {
     color: white;
   }
 /****/
+.column-width{
+  width: 45%;
+}
